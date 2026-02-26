@@ -131,5 +131,3 @@ asyncio.run(main())
 MIT
 
 ---
-
-*Part of AI engineering learning journey.*
