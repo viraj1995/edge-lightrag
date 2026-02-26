@@ -132,4 +132,4 @@ MIT
 
 ---
 
-*Built by [Viraj](https://github.com/viraj1995) as part of AI engineering learning journey.*
+*Part of AI engineering learning journey.*
